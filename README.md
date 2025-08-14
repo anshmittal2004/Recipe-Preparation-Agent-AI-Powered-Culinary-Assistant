@@ -1,4 +1,4 @@
-🍳 Recipe Preparation Agent
+Recipe Preparation Agent
 The Recipe Preparation Agent is an innovative AI-powered culinary assistant developed as part of an IBM internship project. Built using IBM Watsonx AI Studio and the Granite-3-3-8b-instruct model with Retrieval-Augmented Generation (RAG), this solution transforms available ingredients into personalized, step-by-step recipes. It minimizes food waste, accommodates dietary preferences, and provides practical cooking tips, making it a valuable tool for home cooks and professionals alike.
 
 🌟 Project Overview
